@@ -21,10 +21,9 @@ A nodeJS commandline is provide for you to create and run your own robot.
 node robotRepl.js
 
 ## Tests
+No test runner, tests are created using Mocha. 
 
-This repository uses the **git flow** branching strategy.
-If you wish to contribute, please branch from the **develop** branch -
-pull requests will only be requested if they request merging into the develop branch.
+run mocha in the root folder to execute tests.
 
 ## Author
 
